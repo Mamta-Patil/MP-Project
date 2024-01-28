@@ -1,0 +1,96 @@
+@media (min-width:320px) and (max-width:479px) 
+{  
+    .carousel-inner .carousel-caption
+    {
+        position:absolute;
+        top:10%;  
+    }
+    .carousel-inner h1
+    { 
+        padding-top: 10%;
+        font-size: 20px;
+    }
+    .carousel-inner p
+    {
+        font-size: 8px;
+    }
+    .carousel-inner .btn
+    {
+        padding:0%;
+    }
+    .carousel-indicators
+    {
+       position: absolute;
+       top:85%
+    }
+}
+@media (min-width:480px) and (max-width:576px) 
+{  
+    .carousel-inner .carousel-caption
+    {
+        position:absolute;
+        top:7%;  
+    }
+    .carousel-indicators
+    {
+       position: absolute;
+       top:85%
+    }
+    .carousel-caption p
+    {
+        font-size:15px;
+        margin: 0%;
+    }
+}
+@media (min-width:577px) and (max-width:778px) 
+{  
+    .carousel-inner .carousel-caption
+    {
+        position:absolute;
+        top:15%;  
+    }
+    .carousel-indicators
+    {
+       position: absolute;
+       top:85%
+    }
+}
+@media (min-width:779px) and (max-width:992px) 
+{  
+    .carousel-inner .carousel-caption
+    {
+        position:absolute;
+        top:55%;  
+    }
+    .carousel-indicators
+    {
+       position: absolute;
+       top:85%
+    }
+    .footer .input
+    {
+        position: absolute;
+        left: 75%;
+        display: block;
+        object-fit: cover;
+        padding-left: 7px;
+    }
+    .footer i
+    {
+        font-size:20px;
+        padding: 0px;
+    }
+}
+@media (min-width:993px) and (max-width:1200px) 
+{  
+    .carousel-inner .carousel-caption
+    {
+        position:absolute;
+        top:60%;  
+    }
+    .carousel-indicators
+    {
+       position: absolute;
+       top:85%
+    }
+}
